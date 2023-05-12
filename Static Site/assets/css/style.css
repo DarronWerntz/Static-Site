@@ -599,11 +599,14 @@ section {
   color: #555555;
 }
 
+.about img {
+  border-radius: 20px;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
 }
-
 
 .about .content ul li {
   padding-bottom: 10px;
